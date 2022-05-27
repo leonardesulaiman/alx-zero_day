@@ -1,3 +1,3 @@
 Directory readme
 
-updating readme
+readme updating
